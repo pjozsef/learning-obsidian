@@ -1,0 +1,19 @@
+# Plugins I might use in the future
+- Hotkeys++
+- Breadcrumbs
+- Natural language dates
+- Review
+- Outliner
+- Kanban
+- Admonition
+- Emoji toolbar
+- Tag wrangler
+- Obsidian Charts
+- Table of Contents
+- Obsidian Leaflet
+- Timelines
+- Obsidian Pandoc
+- Gallery
+- Obsidian Query Language
+- PlantUML
+- Vault Statistics

@@ -1,0 +1,15 @@
+# Plugins I use
+- Note refactor
+- Icons
+	- Uses [react-link](https://github.com/react-icons/react-icons)
+- Sliding Panes
+- Better word count
+- Reading time
+- Smart random note
+- Advanced tables
+- Paste URL into selection
+- [[DataView]]
+- [[Templater]]
+- Daily note
+- Calendar
+- Journey
