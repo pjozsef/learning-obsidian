@@ -3,4 +3,4 @@ tags: todo
 priority: <%tp.priority%>
 ---
 # <%tp.title%>
-<%tp.file.cursor()%>
+<% tp.file.cursor() %>

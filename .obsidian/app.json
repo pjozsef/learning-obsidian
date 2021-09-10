@@ -3,7 +3,7 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "./Attachments",
   "foldIndent": true,
   "foldHeading": true
 }

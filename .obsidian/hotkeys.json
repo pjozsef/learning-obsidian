@@ -42,7 +42,7 @@
       "key": "G"
     }
   ],
-  "editor:toggle-highlight": [
+  "extract-highlights-plugin:shortcut-extract-highlights": [
     {
       "modifiers": [
         "Alt",
@@ -50,5 +50,15 @@
       ],
       "key": "="
     }
-  ]
+  ],
+  "extract-highlights-plugin:shortcut-highlight-sentence": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": []
 }

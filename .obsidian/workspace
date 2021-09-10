@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0bce621f480a2413",
+        "id": "41c8c84058589745",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "categories.md",
-            "mode": "source"
+            "file": "Index.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "categories.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "categories.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "categories.md"
+                "file": "Index.md"
               }
             }
           },
@@ -124,24 +124,36 @@
             "id": "3265b6e66d423dc3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "53ef83b754dcc29d",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0bce621f480a2413",
+  "active": "41c8c84058589745",
   "lastOpenFiles": [
-    "Untitled.md",
-    "tags.md",
-    "digitalasset.md",
-    "cujo.ai.md",
-    "Highlights for digitalasset.md",
-    "Question/where is the Azhir empire located? 1.md",
-    "Question/where is the Azhir empire located?.md"
+    "Index.md",
+    "Template/Todo.md",
+    "Template/Daily.md",
+    "Template/_TodosPartial.md",
+    "Template/_IncomingOutgoingPartial.md",
+    "Plugins/DataView.md",
+    "Basics/Basics.md",
+    "Basics/BasicsIndex.md",
+    "Basics/Untitled.md",
+    "Basics/Internal Links.md"
   ]
 }

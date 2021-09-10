@@ -1,9 +1,13 @@
 ---
 tags: index
 ---
+
 # [[Plugins I use]]
 ## [[Plugins I might use]]
+# [[Basics]]
 # [[Hotkeys]]
+---
+# Dashboard
 ---
 ![[DataView#Recent notes]]
 ---
@@ -13,3 +17,4 @@ tags: index
 ---
 ![[Query Blocks#Youtube videos]]
 ---
+

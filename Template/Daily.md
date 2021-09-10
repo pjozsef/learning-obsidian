@@ -6,10 +6,8 @@
 << [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]>>
 
 ## Notes
+<% tp.file.cursor() %>
 
-## Todos
-```dataview
-table priority, file.outlinks as "Links from todo"
-from "Todo" and [[<% tp.file.title %>]]
+<% tp.file.include("[[_TodosPartial]]") %>
 
-```
+<% tp.file.include("[[_IncomingOutgoingPartial]]") %>

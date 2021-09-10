@@ -41,7 +41,6 @@ I can actually use `or` to union or `and` to further limit
 ```dataview
 table tags, striptime(file.mtime) as "Updated at"
 from ""
-where file.mtime
 sort file.mtime asc
 limit 5
 ```
@@ -57,7 +56,7 @@ flatten tags
 ## Dangling notes
 ```dataview
 table tags
-from "" and !(#todo or #index) and !"Template"
+from "" and !(#todo or #index or #daily) and !"Template"
 where length(file.inlinks) = 0
 sort file.mtime
 flatten tags
