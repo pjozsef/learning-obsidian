@@ -14,3 +14,5 @@
 - Calendar
 - Journey
 - Extract highlights
+- Outliner
+- Zoom

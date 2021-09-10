@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9a0d9fb32c44e675",
+        "id": "f914921c7a0bd264",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Local Graph.md",
+            "file": "Plugins/Plugins I might use.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "80fcdcda56e0e57f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Plugins/Plugins I use.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Local Graph.md",
+                "file": "Plugins/Plugins I use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics/Local Graph.md",
+                "file": "Plugins/Plugins I use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,20 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics/Local Graph.md"
+                "file": "Plugins/Plugins I use.md"
               }
             }
           },
           {
-            "id": "3265b6e66d423dc3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "53ef83b754dcc29d",
+            "id": "5bb7cf87b1bef0f7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -137,23 +140,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "9a0d9fb32c44e675",
+  "active": "80fcdcda56e0e57f",
   "lastOpenFiles": [
-    "Basics/Local Graph.md",
-    "Daily Notes/2021-Sep-12.md",
-    "Daily Notes/2021-Sep-11.md",
-    "Template/Daily.md",
-    "Daily Notes/2021-09-10.md",
-    "Index.md",
-    "Template/Todo.md",
-    "Template/_TodosPartial.md",
-    "Template/_IncomingOutgoingPartial.md",
-    "Plugins/DataView.md"
+    "Plugins/Plugins I use.md",
+    "Plugins/Plugins I might use.md",
+    "Migration/Categories.md",
+    "tags.md",
+    "test2.md",
+    "testfolder/test.md",
+    "testfolder/Untitled.md",
+    "Migration/Untitled.md",
+    "Migration/test.md",
+    "Migration/test2.md"
   ]
 }

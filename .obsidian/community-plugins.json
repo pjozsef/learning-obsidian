@@ -11,5 +11,7 @@
   "templater-obsidian",
   "obsidian-journey-plugin",
   "calendar",
-  "extract-highlights-plugin"
+  "extract-highlights-plugin",
+  "obsidian-outliner",
+  "obsidian-zoom"
 ]

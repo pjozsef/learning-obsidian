@@ -3,7 +3,6 @@
 - Breadcrumbs
 - Natural language dates
 - Review
-- Outliner
 - Kanban
 - Admonition
 - Emoji toolbar
