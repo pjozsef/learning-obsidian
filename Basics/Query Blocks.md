@@ -16,4 +16,5 @@ path:Basics/
 ```
 ---
 
+# Related
 [[Obsidian Insiders Release 0.10.5  Query Blocks & Nested Tags!|Related video]]

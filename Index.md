@@ -11,7 +11,7 @@ tags: index
 ---
 ![[DataView#Recent notes]]
 ---
-![[My Todos#My Todos]]
+![[DataView#My Todos]]
 ---
 ![[DataView#Dangling notes]]
 ---
