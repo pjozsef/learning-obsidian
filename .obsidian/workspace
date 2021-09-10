@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41c8c84058589745",
+        "id": "9a0d9fb32c44e675",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Index.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,23 +130,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "41c8c84058589745",
+  "active": "9a0d9fb32c44e675",
   "lastOpenFiles": [
+    "Daily Notes/2021-Sep-12.md",
+    "Daily Notes/2021-Sep-11.md",
+    "Template/Daily.md",
+    "Daily Notes/2021-09-10.md",
     "Index.md",
     "Template/Todo.md",
-    "Template/Daily.md",
     "Template/_TodosPartial.md",
     "Template/_IncomingOutgoingPartial.md",
     "Plugins/DataView.md",
-    "Basics/Basics.md",
-    "Basics/BasicsIndex.md",
-    "Basics/Untitled.md",
-    "Basics/Internal Links.md"
+    "Basics/Basics.md"
   ]
 }

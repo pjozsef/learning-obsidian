@@ -3,7 +3,7 @@
 ---
 # <% tp.file.title %>
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]>>
+<< [[<% tp.date.now("YYYY-MMM-DD", -1, tp.file.title, "YYYY-MMM-DD") %>]] | [[<% tp.date.now("YYYY-MMM-DD", 1, tp.file.title, "YYYY-MMM-DD") %>]]>>
 
 ## Notes
 <% tp.file.cursor() %>
