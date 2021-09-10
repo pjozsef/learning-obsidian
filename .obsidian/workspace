@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "9071f3cf90ea0ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bce621f480a2413",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "categories.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7326383b861246f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e5b02fa7ee215a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "589adf6bd69dbcbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c568173ba3a4d2f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b17b02f49fe39c9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c133894cbc56fe87",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d9135d154359f9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc71dd667577e0ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "categories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "21d799d95d7a15f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "categories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fd62355e1b7e9aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9a11e5ffa48b088",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "categories.md"
+              }
+            }
+          },
+          {
+            "id": "3265b6e66d423dc3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0bce621f480a2413",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "tags.md",
+    "digitalasset.md",
+    "cujo.ai.md",
+    "Highlights for digitalasset.md",
+    "Question/where is the Azhir empire located? 1.md",
+    "Question/where is the Azhir empire located?.md"
+  ]
+}

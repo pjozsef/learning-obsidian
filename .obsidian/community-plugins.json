@@ -10,5 +10,6 @@
   "dataview",
   "templater-obsidian",
   "obsidian-journey-plugin",
-  "calendar"
+  "calendar",
+  "extract-highlights-plugin"
 ]

@@ -13,3 +13,4 @@
 - Daily note
 - Calendar
 - Journey
+- Extract highlights
