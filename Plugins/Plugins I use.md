@@ -16,3 +16,4 @@
 - Extract highlights
 - Outliner
 - Zoom
+- Editor Syntax Highlight

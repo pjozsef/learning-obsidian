@@ -16,3 +16,4 @@
 - Obsidian Query Language
 - PlantUML
 - Vault Statistics
+- Maximise Active Pane
