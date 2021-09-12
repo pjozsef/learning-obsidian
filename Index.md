@@ -2,19 +2,37 @@
 tags: index
 ---
 
-# [[Plugins I use]]
-## [[Plugins I might use]]
-# [[Basics]]
-# [[Hotkeys]]
+# Quick links
+- [[Plugins I use]]
+	- [[Plugins I might use]]
+- [[Basics]]
+- [[Hotkeys]]
+## Example templates
+```dataview
+list 
+from "Template"
+sort file.name
+```
+
+## Some youtube videos
+More in Videos folder
+```dataview
+list
+from #video 
+sort file.ctime desc
+limit 5
+```
+
+<br></br>
+
 ---
+---
+---
+
+<br></br>
+
 # Dashboard
----
-![[DataView#Recent notes]]
----
+![[DataView#Most recent notes]]
 ![[DataView#My Todos]]
----
-![[DataView#Dangling notes]]
----
-![[Query Blocks#Youtube videos]]
----
+![[DataView#Orphan notes]]
 

@@ -45,7 +45,7 @@ sort file.mtime asc
 limit 5
 ```
 
-## Recent notes
+## Most recent notes
 ```dataview
 table tags
 from ""
@@ -53,7 +53,7 @@ sort file.mtime desc
 limit 5
 flatten tags
 ```
-## Dangling notes
+## Orphan notes
 ```dataview
 table tags
 from "" and !(#todo or #index or #daily) and !"Template"

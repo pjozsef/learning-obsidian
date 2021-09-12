@@ -6,3 +6,4 @@ tags: index
 - [[Internal Links]]
 - [[Local Graph]]
 - [[Query Blocks]]
+- [[Mermaid]]

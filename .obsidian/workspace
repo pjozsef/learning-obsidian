@@ -4,15 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "f914921c7a0bd264",
+        "id": "43a25cd0f97f27ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template/Daily.md",
+            "file": "Basics/Basics.md",
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "60a9bc6845b4e354",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basics/Mermaid.md",
+            "mode": "source"
+          }
+        },
+        "group": "23f1b9914d03b7d7"
+      },
+      {
+        "id": "57dbbcaceb09455c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basics/Mermaid.md",
+            "mode": "preview"
+          }
+        },
+        "group": "23f1b9914d03b7d7"
+      },
+      {
+        "id": "a556aa70d6ad3c5a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basics/Basics.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4d5e7dbbad092262",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basics/Mermaid.md",
+            "mode": "preview"
+          }
+        },
+        "group": "23f1b9914d03b7d7"
       }
     ],
     "direction": "vertical"
@@ -76,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Daily.md",
+                "file": "Basics/Mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Daily.md",
+                "file": "Basics/Mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,12 +163,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Daily.md"
+                "file": "Basics/Mermaid.md"
               }
             }
           },
           {
             "id": "5bb7cf87b1bef0f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "26cae1ab12144021",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -136,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f914921c7a0bd264",
+  "active": "57dbbcaceb09455c",
   "lastOpenFiles": [
-    "Template/Daily.md",
-    "Template/_IncomingOutgoingPartial.md",
-    "Template/_TodosPartial.md",
-    "Basics/Query Blocks.md",
+    "Basics/Mermaid.md",
+    "Basics/Basics.md",
+    "Basics/Block Reference.md",
+    "Basics/Untitled.md",
     "Index.md",
+    "Videos/Untitled.md",
+    "Videos/How I Write Permanent Notes in Obsidian.md",
+    "Videos/Alfred Workflows With Obsidian.md",
     "Plugins/DataView.md",
-    "Plugins/Plugins I might use.md",
-    "Todo/My Todos.md",
-    "Plugins/Plugins I use.md",
-    "Migration/Categories.md"
+    "Basics/Query Blocks.md"
   ]
 }
