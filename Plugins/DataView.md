@@ -37,10 +37,18 @@ I can actually use `or` to union or `and` to further limit
 `limit num`
 
 # Examples
+Not all examples will work, might need the correct data set up, like `#wip` tags, or certain values in frontmatter. But should give some ideas.
+## Show todo items that both have a deadline and priority
+```dataview
+table deadline, this.file.name
+from #task  
+where deadline > date(now) and (deadline - date(today)) <= dur(3 month)
+sort deadline asc, priority asc, file.mtime desc
+```
 ## Show most ignored wip files
 ```dataview
 table tags, striptime(file.mtime) as "Updated at"
-from ""
+from #wip
 sort file.mtime asc
 limit 5
 ```

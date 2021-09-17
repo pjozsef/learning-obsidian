@@ -13,5 +13,6 @@
   "calendar",
   "extract-highlights-plugin",
   "obsidian-outliner",
-  "obsidian-zoom"
+  "obsidian-zoom",
+  "cm-editor-syntax-highlight-obsidian"
 ]

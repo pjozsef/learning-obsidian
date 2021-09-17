@@ -1,58 +1,30 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "tag:#video",
-      "color": {
-        "a": 1,
-        "rgb": 14170939
-      }
-    },
-    {
-      "query": "tag:#todo",
-      "color": {
-        "a": 1,
-        "rgb": 3057164
-      }
-    },
-    {
-      "query": "tag:#plugin",
-      "color": {
-        "a": 1,
-        "rgb": 5399264
-      }
-    },
     {
       "query": "tag:#index",
       "color": {
         "a": 1,
-        "rgb": 13958912
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 15004683
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.88502457865169,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 1,
+  "nodeSizeMultiplier": 1.31329044117647,
+  "lineSizeMultiplier": 1.01199448529412,
+  "collapse-forces": false,
+  "centerStrength": 0.301351825842697,
+  "repelStrength": 10.0614466292135,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8504734943946324,
-  "close": true
+  "linkDistance": 199,
+  "scale": 0.4071323032529058,
+  "close": false
 }

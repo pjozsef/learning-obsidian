@@ -5,5 +5,15 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./Attachments",
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "spellcheck": false,
+  "showLineNumber": true,
+  "tabSize": 4,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

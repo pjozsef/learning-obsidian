@@ -60,7 +60,15 @@
       "key": "-"
     }
   ],
-  "file-explorer:new-file-in-new-pane": [],
+  "file-explorer:new-file-in-new-pane": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
   "obsidian-outliner:fold": [],
   "obsidian-outliner:unfold": [],
   "obsidian-outliner:move-list-item-down": [
@@ -81,6 +89,33 @@
         "Shift"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
     }
   ]
 }
