@@ -4,7 +4,6 @@
 - Natural language dates
 - Review
 - Kanban
-- Admonition
 - Emoji toolbar
 - Tag wrangler
 - Obsidian Charts
@@ -16,4 +15,4 @@
 - Obsidian Query Language
 - PlantUML
 - Vault Statistics
-- Maximise Active Pane
+- File Explorer Note Count

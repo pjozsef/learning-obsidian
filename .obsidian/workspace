@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Plugins/Plugins I use.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Plugins/Plugins I use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Plugins/Plugins I use.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Plugins/Plugins I use.md"
               }
             }
           },
@@ -154,6 +154,8 @@
   },
   "active": "a52c34c1e39a5b94",
   "lastOpenFiles": [
+    "Plugins/Plugins I use.md",
+    "Plugins/Plugins I might use.md",
     "Index.md",
     "Videos/Obsidian Plugins (0.9.10) — My top plugins in the Obsidian app.md",
     "Plugins/DataView.md",
@@ -161,8 +163,6 @@
     "Uwara/Drops/Tiny creatures that burrow themselves below ground.md",
     "Uwara/Index.md",
     "Uwara/Athenaeum/Ozhara.md",
-    "Uwara/Athenaeum/Fungusfolk.md",
-    "Uwara/Athenaeum/Awakening.md",
-    "Uwara/Athenaeum/Awaken.md"
+    "Uwara/Athenaeum/Fungusfolk.md"
   ]
 }

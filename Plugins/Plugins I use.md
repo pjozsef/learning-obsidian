@@ -1,19 +1,27 @@
 # Plugins I use
-- Note refactor
-- Icons
-	- Uses [react-link](https://github.com/react-icons/react-icons)
+## UI
 - Sliding Panes
-- Better word count
-- Reading time
-- Smart random note
-- Advanced tables
-- Paste URL into selection
+- Cycle through panes
+- Maximise active pane
+---
+## Editor
 - [[DataView]]
 - [[Templater]]
-- Daily note
-- Calendar
-- Journey
-- Extract highlights
+- Advanced tables
+- Paste URL into selection
 - Outliner
 - Zoom
 - Editor Syntax Highlight
+- Extract highlights
+- Note refactor
+- Admonition
+- Icons
+	- Uses [react-link](https://github.com/react-icons/react-icons)
+---
+## Misc
+- Daily note
+- Calendar
+- Smart random note
+- Better word count
+- Reading time
+- Journey
