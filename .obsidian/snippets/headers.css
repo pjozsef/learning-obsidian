@@ -1,0 +1,33 @@
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    text-align: center;
+}
+
+.markdown-preview-view h1,
+.markdown-source-view span.cm-header.cm-header-1 {
+    color: #CC2F3F;
+}
+
+.markdown-preview-view h2,
+.markdown-source-view span.cm-header.cm-header-2 {
+    color: #D96932;
+}
+
+.markdown-preview-view h3,
+.markdown-source-view span.cm-header.cm-header-3 {
+    color: #EBB750;
+}
+
+.markdown-preview-view h4,
+.markdown-source-view span.cm-header.cm-header-4 {
+    color: #87BF56;
+}
+
+.markdown-preview-view h5,
+.markdown-source-view span.cm-header.cm-header-5 {
+    color: #9966CC;
+}

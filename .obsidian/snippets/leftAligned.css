@@ -1,0 +1,45 @@
+.lah h1,
+.lah h2,
+.lah h3,
+.lah h4,
+.lah h5,
+.lah h6 {
+    text-align: initial !important;
+}
+
+.lah2 h2,
+.lah2 h3,
+.lah2 h4,
+.lah2 h5,
+.lah2 h6 {
+    text-align: initial !important
+}
+
+.lah3 h3,
+.lah3 h4,
+.lah3 h5,
+.lah3 h6 {
+    text-align: initial !important
+}
+
+.lah4 h4,
+.lah4 h5,
+.lah4 h6 {
+    text-align: initial !important
+}
+
+.lah5 h5,
+.lah5 h6 {
+    text-align: initial !important
+}
+
+.lah6 h6 {
+    text-align: initial !important
+}
+
+
+.lai img {
+	margin-left: initial !important;
+    margin-right: initial !important;
+    display: initial !important;
+}

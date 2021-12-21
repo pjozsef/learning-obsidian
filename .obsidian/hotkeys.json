@@ -5,6 +5,12 @@
         "Ctrl"
       ],
       "key": "N"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
   ],
   "templater-obsidian:insert-templater": [
@@ -116,6 +122,23 @@
         "Shift"
       ],
       "key": "K"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "cycle-through-panes:cycle-through-panes": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "cycle-through-panes:cycle-through-panes-reverse": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "ArrowLeft"
     }
   ]
 }

@@ -14,5 +14,8 @@
   "extract-highlights-plugin",
   "obsidian-outliner",
   "obsidian-zoom",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-admonition",
+  "cycle-through-panes",
+  "maximise-active-pane-obsidian"
 ]

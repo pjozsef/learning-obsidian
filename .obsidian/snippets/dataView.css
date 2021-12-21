@@ -1,0 +1,17 @@
+table.dataview.table-view-table tbody {
+    counter-reset: rowNumber;
+}
+
+table.dataview.table-view-table tr {
+    counter-increment: rowNumber;
+}
+
+table.dataview.table-view-table tr:not(:last-child) {
+    border-bottom: solid dimgrey 1px;
+}
+
+table.dataview.table-view-table tr td:first-child::before {
+    content: counters(rowNumber, ".", decimal-leading-zero) ". ";
+    min-width: 1em;
+    margin-right: 0.5em;
+}

@@ -1,8 +1,15 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "enabledCssSnippets": [
     "zoom",
     "centeredHeaders",
-    "editorWidth"
-  ]
+    "editorWidth",
+    "centeredImage",
+    "zoomAndCenterImage",
+    "dataViewRowNumber",
+    "dataView",
+    "headers",
+    "leftAligned"
+  ],
+  "theme": "obsidian"
 }
