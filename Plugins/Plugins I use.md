@@ -3,6 +3,13 @@
 - Sliding Panes
 - Cycle through panes
 - Maximise active pane
+- Better word count
+---
+## Note content
+- Timeline
+- Admonition
+- Icons
+	- Uses [react-link](https://github.com/react-icons/react-icons)
 ---
 ## Editor
 - [[DataView]]
@@ -14,14 +21,10 @@
 - Editor Syntax Highlight
 - Extract highlights
 - Note refactor
-- Admonition
-- Icons
-	- Uses [react-link](https://github.com/react-icons/react-icons)
 ---
 ## Misc
 - Daily note
 - Calendar
 - Smart random note
-- Better word count
 - Reading time
 - Journey

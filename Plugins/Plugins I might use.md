@@ -9,10 +9,12 @@
 - Obsidian Charts
 - Table of Contents
 - Obsidian Leaflet
-- Timelines
 - Obsidian Pandoc
 - Gallery
 - Obsidian Query Language
 - PlantUML
 - Vault Statistics
 - File Explorer Note Count
+- Language tool
+- Longform
+- Cross-reference Navigation
