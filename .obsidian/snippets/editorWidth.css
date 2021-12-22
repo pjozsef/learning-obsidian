@@ -1,6 +1,10 @@
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
-.markdown-source-view.is-readable-line-width .CodeMirror,
 .markdown-source-view.mod-cm6.is-readable-line-width.is-rtl .cm-contentContainer,
 .markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer {
     max-width:90%;
+}
+
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-line,
+.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-line:not(.HyperMD-table-row) {
+    max-width:100%
 }
