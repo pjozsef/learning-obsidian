@@ -1,12 +1,13 @@
 ---
 tags: index
 ---
-
-# Quick links
+# Index
+## Quick links
 - [[Plugins I use]]
 	- [[Plugins I might use]]
 - [[Basics]]
 - [[Hotkeys]]
+- [[Styling Obsidian]]
 ## Example templates
 ```dataview
 list 
