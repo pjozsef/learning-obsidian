@@ -41,7 +41,7 @@ Not all examples will work, might need the correct data set up, like `#wip` tags
 ## Show todo items that both have a deadline and priority
 ```dataview
 table deadline, this.file.name
-from #task  
+from #task
 where deadline > date(now) and (deadline - date(today)) <= dur(3 month)
 sort deadline asc, priority asc, file.mtime desc
 ```
@@ -74,7 +74,7 @@ flatten tags
 Todos listed by todo tag, ordered by prio and creation time
 ```dataview
 table priority as Priority, striptime(file.ctime) as "Created at"
-from #todo 
+from #todo
 sort priority asc, file.ctime asc
 ```
 ---
