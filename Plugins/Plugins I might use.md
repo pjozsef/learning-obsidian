@@ -6,7 +6,6 @@
 - Kanban
 - Emoji toolbar
 - Tag wrangler
-- Obsidian Charts
 - Table of Contents
 - Obsidian Leaflet
 - Obsidian Pandoc

@@ -16,6 +16,7 @@
 - [[Templater]]
 - Advanced tables
 - Paste URL into selection
+- Plotly
 - Outliner
 - Zoom
 - Editor Syntax Highlight
